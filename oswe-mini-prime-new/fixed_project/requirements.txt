@@ -1,0 +1,3 @@
+numpy>=1.18
+pillow>=8.0
+pytest>=6.0
